@@ -15,7 +15,7 @@ Open Camera and display it over window using python.
     
 3. Run **main.py** 
 
-![SS]("S:/project/test/demo.png")
+![SS]("https://github.com/sunilvashist/CameraConnector-Python-/blob/master/demo.png?raw=true")
 
    
 
